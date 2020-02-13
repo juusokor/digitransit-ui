@@ -224,7 +224,7 @@
     "postcss-flexbugs-fixes": "4.1.0",
     "postcss-loader": "3.0.0",
     "prettier": "1.12.1",
-    "relay-compiler": "1.6.0",
+    "relay-compiler": "9.0.0",
     "sass-loader": "8.0.2",
     "selenium-webdriver": "4.0.0-alpha.1",
     "sinon": "7.3.1",
